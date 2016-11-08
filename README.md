@@ -1,4 +1,4 @@
-# QuotesBot
+# MySpiders
 This is a Scrapy project to scrape info from http://info.finance.yahoo.co.jp
 
 
